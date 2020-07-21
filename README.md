@@ -26,6 +26,15 @@ https://www.protractortest.org/#/locators </br>
 
 
 
+<b> take screen shot </b> </br>
+https://www.npmjs.com/package/protractor-jasmine2-screenshot-reporter
+
+<b> POM Framework </b> </br>
+move to feature branch - Feature/POM </br>
+
+<b> Screen shot </b></br>
+move to feature/takeScreenshot </br>
+
 
 
 
