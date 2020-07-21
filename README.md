@@ -36,6 +36,19 @@ move to feature branch - Feature/POM </br>
 move to feature/takeScreenshot </br>
 
 
+<b> allure Report </b> </br>
+Install jasmine allure reports plugin </br>
+
+https://www.npmjs.com/package/jasmine-allure-reporter </br>
+
+npm i -g jasmine-allure-reporter </br>
+
+allure command line tool </br>
+https://www.npmjs.com/package/allure-commandline </br>
+npm i allure-commandline </br>
+
+<b> allure serve "location of allure result folder" </b> </br>
+
 
 
 
