@@ -49,6 +49,12 @@ npm i allure-commandline </br>
 
 <b> allure serve "location of allure result folder" </b> </br>
 
+<b> protractor HTML reporter </b> </br>
+
+https://www.npmjs.com/package/protractor-html-reporter-2 </br>
+
+
+
 
 
 
