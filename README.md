@@ -24,6 +24,15 @@ element.all </br>
 https://www.protractortest.org/#/locators </br>
 
 
+<b> POM Framework </b> </br>
+move to feature branch - Feature/POM </br>
+
+<b> take screen shot </b> </br>
+https://www.npmjs.com/package/protractor-jasmine2-screenshot-reporter
+
+<b> Create Allure Reports </b> </br>
+
+
 
 
 
