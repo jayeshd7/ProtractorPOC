@@ -55,4 +55,5 @@
  
 • <b> mocha hooks </b> </br> 
     hooks can be used for execution style like beforeAll,beforeEach,afterAll,afterEach </br>
+    npm install mocha -g
     
