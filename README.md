@@ -48,3 +48,11 @@
 • <b> protractor HTML reporter </b> </br>
 
     https://www.npmjs.com/package/protractor-html-reporter-2 </br>
+ 
+• <b> chai Assertion </b> </br>
+    chai can be used for assetion like should,expect,assert </br>
+    npm install chai -save-dev -g </br>
+ 
+• <b> mocha hooks </b> </br> 
+    hooks can be used for execution style like beforeAll,beforeEach,afterAll,afterEach </br>
+    
